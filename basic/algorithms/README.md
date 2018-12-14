@@ -1,0 +1,114 @@
+### 以下是对本部分练习题内容总结
+
+1. [字符串](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/字符串.md)
+   - 拓补结构相同的子树
+   - 词语变形
+   - 两词互为旋转词
+   - 字符串逆序调整
+   - 字符串拼接后字典顺序最小
+   - 空格替换
+   - 合法括号匹配
+   - 最长无重复字符子串
+2. [排序](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/排序.md)
+   - 冒泡排序
+   - 选择排序
+   - 插入排序
+   - 归并排序
+   - 快速排序
+   - 堆排序
+   - 希尔排序
+   - 计数排序
+   - 基数排序
+   - 小范围排序
+   - 重复值判断
+   - 有序数组合并
+   - 三色排序
+   - 有序矩阵查找
+   - 最短子数组查找
+   - 相邻两数最大差值
+3. [队列和栈](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/队列和栈.md)
+   - 可查询最值
+   - 双栈队列
+   - 栈的反转
+   - 双栈排序
+   - 滑动窗口
+   - 数组变树
+4. [链表](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/链表.md)
+   - 环形链表插值
+   - 访问单个节点的的删除
+   - 链表的分化
+   - 打印两个链表的公共值
+   - 链表的K逆序
+   - 链表指定值清除
+   - 链表的回文结构
+   - 复杂链表的复制
+   - 链表判断环
+   - 无环单链表判断相交
+   - 有环单链表相交判断
+   - 单链表相交判断
+5. [二分搜索](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/二分搜索.md)
+   - 局部最小值位置
+   - 元素最左出现
+   - 循环有序数组最小值
+   - 最左原位
+   - 完全二叉树计数
+   - 快速N次方
+6. [二叉树](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/二叉树.md)
+   - 递归和非递归遍历
+   - 层遍历
+   - 二叉树序列化
+   - 平衡二叉树判断
+   - 完全二叉树判断
+   - 搜索二叉树判断
+   - 折纸问题
+   - 寻找错误点
+   - 树上最远距离
+   - 最大二叉搜索树
+7. [位运算](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/位运算.md)
+   - 交换
+   - 比较
+   - 寻找奇数出现(一个奇数)
+   - 寻找奇数出现(两个奇数)
+8. [排列组合](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/排列组合.md)
+   - 方格移动问题
+   - 站队问题
+   - 孤傲的A
+   - 分糖果
+   - 括号序列
+   - 合法括号打印
+   - 进出栈
+   - 排队买票
+   - 二叉树统计
+   - 高矮排列
+   - 错装信封
+9. [概率](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/概率.md)
+   - 足球比赛
+   - 蚂蚁碰头
+   - 随机函数
+   - 随机区间函数
+   - 随机数组打印
+   - 机器吐球
+10. [大数据](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/大数据.md)
+    - 哈希函数
+    - 用map-reduce方法统计每一篇文章中每个单词出现的个数
+    - 对10亿个IPV4地址进行排序
+    - 对10亿个人的年龄排序
+    - 有一个包含20亿个全是32位整数的大文件，在其中找到次数最多的树，内存限制2G
+    - 32位无符号整数范围 0 ~ 4294967295，现在有一个正包含40亿个无符号整数的文件，所以在范围内必然有没出现过的树。用10兆的内存，找到一个没出现过的数
+    - 某搜索公司一天的用户搜索词汇是海量的，假设有百亿的数据量，请设计一种求出每天最热100词的可行方法
+    - 集群问题
+11. [动态规划](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/动态规划.md)
+    - 找零钱问题
+    - 台阶问题
+    - 矩阵最小路径和问题
+    - LIS最长递增子序列问题
+    - LCS最长公共子序列问题
+    - 01背包问题
+    - 最优编辑问题
+12. [智力题](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/智力题.md)
+    - 涂色
+    - 赛马
+    - 跳格子
+    - 游戏
+    - 清空数组
+13. [其它练习题](https://github.com/raojianxiong/Notes/blob/master/basic/algorithms/others.md)
